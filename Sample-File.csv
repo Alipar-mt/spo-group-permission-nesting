@@ -1,0 +1,7 @@
+SiteUrl,GroupName,PermissionLevel,EntraGroupName
+https://contoso.sharepoint.com/sites/marketing,Marketing Contributors,Contribute,Marketing-Team-Security-Group
+https://contoso.sharepoint.com/sites/finance,Finance Readers,Read,Finance-Team-Security-Group
+https://contoso.sharepoint.com/sites/hr,HR Full Access,Full Control,HR-Admin-Security-Group
+https://contoso.sharepoint.com/sites/projects,Project Members,Contribute,Project-Team-Members
+https://contoso.sharepoint.com/sites/sales,Sales Team,Edit,Sales-Department-Group
+https://contoso.sharepoint.com/sites/it,IT Support,Design,IT-Support-Team
